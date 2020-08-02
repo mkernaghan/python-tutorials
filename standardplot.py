@@ -1,4 +1,4 @@
-import matplotlib.pyply as plt
+import matplotlib.pyplot as plt
 import numpy as np
 
 x = np.linespace(0,20,100)  # Create a list of evenly-spaced numbers over the range
